@@ -28,8 +28,9 @@
 
 总览
 ----
-图片1
-图片2
+![png1](static/work.png)
+![png2](static/register.png)
+![png3](static/login.png)
 
 环境和依赖
 ----
