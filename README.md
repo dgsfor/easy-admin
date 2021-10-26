@@ -5,7 +5,7 @@
 
 项目组成
 ----
-- 前端：基于[Ant Design Pro](https://pro.ant.design/)实现的，修改了一下登录注册相关页面和逻辑
+- 前端：基于[Ant Design Vue Pro](https://github.com/vueComponent/ant-design-vue-pro)实现的，修改了一下登录注册相关页面和逻辑
 - 后端：使用gin框架写的一个简单的restful
 
 功能说明
