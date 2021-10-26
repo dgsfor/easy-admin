@@ -73,3 +73,9 @@ go run main.go --env dev 本地
 - 前端所有配置的接口地址`easy-admin-template/src/api/apis`，这个目录下，按照文件名来区分是哪个模块就行
 
 
+联系方式
+----
+
+有问题的话，直接加我微信就行：`dgsform`
+
+![weixin](static/weixin.jpg)
